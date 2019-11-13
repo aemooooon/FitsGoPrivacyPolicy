@@ -1,7 +1,3 @@
----
-title: At the Beginning of the Project
----
-
 <h1>FitsGo Privacy Policy</h1>
 <p>Otago Polytech 2019S2 Mobile Project Group Hua Wang&Panithan (Carthur) Pongpatimet built the FitsGo app as a Free app. This SERVICE is provided by Otago Polytech at no cost and is intended for use as is.</p>
 <p>This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</p>
