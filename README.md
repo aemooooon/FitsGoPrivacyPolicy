@@ -5,7 +5,7 @@
 <h3>Information Collection and Use</h3>
 <p>For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to location,email,icon. The information that we request will be retained by us and used as described in this privacy policy.</p>
 <p>The app does use third party services that may collect information used to identify you.</p>
-<p>Link to privacy policy of third party service providers used by the app <a target='_blank' href='https://www.google.com/policies/privacy/'>Google Play Services</a></p>
+<p>Link to privacy policy of third party service providers used by the app:<br> <a target='_blank' href='https://www.google.com/policies/privacy/'>Google Play Services</a></p>
 
 <h3>Log Data</h3>
 <p>We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.</p>
@@ -32,4 +32,4 @@
 <p>We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.</p>
 <h3>Contact Us</h3>
 <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at <a href='mailto:opbitproject@gmail.com'>opbitproject@gmail.com</a></p>
-<br><br><br><br><br>
+<br>
